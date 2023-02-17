@@ -1,0 +1,20 @@
+18:56:40-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 0, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 2]: 20082105 | User-IP: 5.101.21.254
+18:58:04-17.02.23 | Login: Ramil_Zaripov [skin: 185, lvl: 0, money: $1278477] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 8]: скажит аниме любой походки плиз | User-IP: 5.101.21.254
+18:59:24-17.02.23 | Login: Ramil_Zaripov [skin: 185, lvl: 19, money: $1278477] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 8]: скажите аниме походки пьяной плиз когда персонаж идет пьяный | User-IP: 5.101.21.254
+19:02:43-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 19, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 2]: 2008210 | User-IP: 5.101.21.254
+19:02:43-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 19, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 2]: 2008210 | User-IP: 5.101.21.254
+19:02:47-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 0, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 2]: 20082105 | User-IP: 5.101.21.254
+19:02:48-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 0, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 2]: 20082105 | User-IP: 5.101.21.254
+19:04:35-17.02.23 | Login: Ramil_Zaripov [skin: 185, lvl: 0, money: $1278477] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 8]: на сколько запрет на участие в свалке? | User-IP: 5.101.21.254
+19:09:01-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 19, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 2]: 20082105 | User-IP: 5.101.21.254
+19:09:02-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 19, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 2]: 20082105 | User-IP: 5.101.21.254
+19:13:02-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 0, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 2]: 20082105 | User-IP: 5.101.21.254
+19:13:03-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 0, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06] | Info[id: 2]: 20082105 | User-IP: 5.101.21.254
+22:10:54-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 0, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06 | [x3 ДЕНЬ]] | Info[id: 2]: 20082105 | User-IP: 5.101.21.254
+22:12:38-17.02.23 | Login: Ramil_Zaripov [skin: 185, lvl: 0, money: $1276477] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06 | [x3 ДЕНЬ]] | Info[id: 8]: LOVE | User-IP: 5.101.21.254
+22:12:45-17.02.23 | Login: Ramil_Zaripov [skin: 185, lvl: 19, money: $1276477] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06 | [x3 ДЕНЬ]] | Info[id: 8]: LOVE | User-IP: 5.101.21.254
+22:18:33-17.02.23 | Login: Ramil_Zaripov [skin: 185, lvl: 19, money: $1272477] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06 | [x3 ДЕНЬ]] | Info[id: 8]: поставьте прицеп на ноги пж | User-IP: 5.101.21.254
+22:26:15-17.02.23 | Login: Ramil_Zaripov [skin: 185, lvl: 19, money: $1270477] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06 | [x3 ДЕНЬ]] | Info[id: 8]: 4346 | User-IP: 5.101.21.254
+22:27:04-17.02.23 | Login: Ramil_Zaripov [skin: 185, lvl: 19, money: $1270477] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06 | [x3 ДЕНЬ]] | Info[id: 8]: 4346 | User-IP: 5.101.21.254
+23:01:13-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 19, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06 | [x3 ДЕНЬ]] | Info[id: 2]: 20082105 | User-IP: 5.101.21.254
+23:01:14-17.02.23 | Login: Ramil_Zaripov [skin: 0, lvl: 19, money: $0] | Server: 185.169.134.36:7777 [RADMIR RolePlay | Сервер: 06 | [x3 ДЕНЬ]] | Info[id: 2]: 20082105 | User-IP: 5.101.21.254
